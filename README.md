@@ -7,7 +7,7 @@ This methodology is _declarative_, not imperative. It describes _what_ we need t
 ## Eight Techniques
 
 1. Learn **just in time**, not just in case
-    * Learn only what you need to know exactly when you need to know it and apply it immediately and repeatedly.
+    * Learn only what you need to know exactly when you need to know it and apply it immediately and repeatedly. Avoid the rabbit holes.
 1. Learn **inductively** not deductively
     * Begin with concrete examples, then abstract the principles, not the other way around. Stay as low on the tree of abstraction as you can. (Principle of least power.)
 1. Learn **outside-in**
@@ -20,7 +20,7 @@ This methodology is _declarative_, not imperative. It describes _what_ we need t
     * Skills require mentoring and practice, and practice makes permanent. Do it right the first time and every time. Knowledge is perishable and volatile and can be acquired instantly and the moment it is needed. (Thank you, Google.)
     * Einstein: Never memorise anything that’s already written down.
 1. Follow the **single, shortest path**
-    * Pick one good way to do the thing and stick to it. Providing alternatives early on only confuses and increases cognitive load. There will be time to learn other approaches later.
+    * Pick one good way to do the thing and stick to it. Providing alternatives early on only confuses and increases cognitive load. There will be time to learn other approaches later. Finish learning one thing before you move to another.
 1. **Always be learning**
     * Never stand still for long. Learn at every available opportunity. Look continually for opportunities to learn, but remember to focus your learning on relevant material: what you need&mdash;just-in-time&mdash;to do what you need to do _now_.
 
