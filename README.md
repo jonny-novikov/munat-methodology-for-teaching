@@ -4,7 +4,7 @@ A synopsis of the methodology I've been developing for 25 years or so and discus
 
 This methodology is _declarative_, not imperative. It describes _what_ we need to do, but not _how_ to do it. The how will be determined empirically&mdash;by experimentation and iteration in an agile fashion.
 
-## Seven Techniques
+## Eight Techniques
 
 1. Learn **just in time**, not just in case
     * Learn only what you need to know exactly when you need to know it and apply it immediately and repeatedly.
@@ -21,6 +21,8 @@ This methodology is _declarative_, not imperative. It describes _what_ we need t
     * Einstein: Never memorise anything that’s already written down.
 1. Follow the **single, shortest path**
     * Pick one good way to do the thing and stick to it. Providing alternatives early on only confuses and increases cognitive load. There will be time to learn other approaches later.
+1. **Always be learning**
+    * Never stand still for long. Learn at every available opportunity. Look continually for opportunities to learn, but remember to focus your learning on relevant material: what you need&mdash;just-in-time&mdash;to do what you need to do _now_.
 
 ## Six Principles
 
