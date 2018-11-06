@@ -24,7 +24,7 @@ This methodology is _declarative_, not imperative. It describes _what_ we need t
 1. **Always be learning**
     * Never stand still for long. Learn at every available opportunity. Look continually for opportunities to learn, but remember to focus your learning on relevant material: what you need&mdash;just-in-time&mdash;to do what you need to do _now_.
 
-## Six Principles
+## Seven Principles
 
 1. Stay **student-centered**
     * Too often we make decisions based on what’s easiest or cheapest for the institution or the instructors in the short term. Making learning most effective for the student provides much better ROI in the longer term.
@@ -32,6 +32,8 @@ This methodology is _declarative_, not imperative. It describes _what_ we need t
     * The true task of teachers is to teach the student how to learn. Progressive autonomy is the goal. Initially, plenty of structure and direction, but shifting as quickly as practicable to fully self-directed learning. The self-directed learner is the mature learner.
 1. **Make it to measure**
     * One size fits hardly anyone. Every student is unique and needs a bespoke pedagogy and curriculum for the greatest learning efficacy.
+1. **Surface the pedagogy**
+    * Most important is to help the learner learn how to learn. To this end, teach not only the material, but the pedagogy used to teach it at every opportunity&mdash;just in time.
 1. Favour **teachers over domain experts**
     * Teaching is both an art and a science; it is a profession. You wouldn’t ask your chef to be your surgeon&mdash;why ask your domain expert to be your teacher?
 1. Stay **agile**
